@@ -9,7 +9,7 @@ do
     print $bwint
   else
     echo $time ddos blocked of $bw kb/s
-    CODE HERE >/dev/null 2>&1
+    /bin/bash /root/ddos.sh >/dev/null 2>&1
     continue
   fi
 done
