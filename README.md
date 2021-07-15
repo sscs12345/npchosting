@@ -1,5 +1,5 @@
 ### NPC HOSTING 
-Buy Game Servers in Mumbai location with free ddos protection included at the cheapest rates ever! Visit [npchosting.com](https://npchosting.com)
+Buy Game Servers in Mumbai & Hyderabad location with free ddos protection included at the cheapest rates ever! Visit [npchosting.com](https://npchosting.com)
 
 ## INFO
 This github repo contains source codes of old protection used in the past for cs 1.6 servers in India against DDOS attacks. 
